@@ -1,4 +1,4 @@
-### Hi there 👋 🌱 I’m currently learning GitHub.
+### Hi there 👋 🌱 I’m currently learning GitHub. ⚡ Fun fact: I can slove a Rubix Cube in 3 minutes or less.
 
 <!--
 **Joyshineszz/Joyshineszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
