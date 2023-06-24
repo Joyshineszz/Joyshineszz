@@ -1,5 +1,5 @@
 ### Hi there 👋 🌱 I’m currently learning GitHub. ⚡ Fun fact: I can solve a Rubix Cube in 3 minutes or less
-🔭 I'm currently working on reinstalling my Windows 11 on an my factory reset 512GB PCIe® 3.0 NVMe™ M.2 SSD SSD, from Scratch.
+🔭 I'm currently working on learning about NVMe™ M.2 SSD
 <!--
 **Joyshineszz/Joyshineszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
