@@ -1,5 +1,5 @@
 ### I’m Sanija Eliasson.
-⚡ Fun fact: I can solve a Rubix Cube in 3 minutes or less.
+⚡ Fun fact: I can solve the 3x3 Rubix Cube in 3 minutes or less and the 4x4 cube in 25 minutes or less.
 🔭 I'm currently learning I.T.
 <!--
 **Joyshineszz/Joyshineszz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
